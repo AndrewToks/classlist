@@ -1,0 +1,554 @@
+[
+    {
+        "id":1,
+        "name":"Abiodun Michael Oluwapelumi",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9254"
+    },
+    {
+        "id":2,
+        "name":"Adeluwoye Jethro Oluwadamilare",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9255"
+    },
+    {
+        "id":3,
+        "name":"Ademola Adewale Ibrahim",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":4,
+        "name":"Adetokunbo Andrew Oluwabusayomi",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":5,
+        "name":"Adetokunbo Favor Ifeoluwa",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9257"
+    },
+    {
+        "id":6,
+        "name":"Adewuyi Peter Boluwatife",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9259"
+    },
+    {
+        "id":7,
+        "name":" Adorolo Emmanuel George Oshoma",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9260"
+    },
+    {
+        "id":8,
+        "name":"Adu Oluwatoyin Stephen",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9261"
+    },
+    {
+        "id":9,
+        "name":"Agbede Daniella Denyefa",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9262"
+    },
+    {
+        "id":10,
+        "name":"Ajani David Anuoluwapo",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":11,
+        "name":"Akerejola Emeduduna Crown",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":12,
+        "name":"Akinlo Tosin",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9264"
+    },
+    {
+        "id":13,
+        "name":"Akinwumi Olamiposi David",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9265"
+    },
+    {
+        "id":14,
+        "name":"Alamu Jude Toluwanimi",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":15,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":16,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":17,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":18,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":19,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":20,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":21,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":22,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":23,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":24,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":25,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":26,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":27,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":28,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":29,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":30,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":31,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":32,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":33,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":34,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":35,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":36,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":37,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":38,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":39,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":40,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":41,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":42,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":43,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":44,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":45,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":46,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":47,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":48,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":49,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":50,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":51,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":52,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":53,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":54,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":55,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":56,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":57,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":58,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":59,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":60,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":61,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":62,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":63,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":64,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":65,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":66,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":67,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":68,
+        "name":"Abiodun Michael",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    },
+    {
+        "id":69,
+        "name":"Yinusa Peace",
+        "phone":"07048222080",
+        "email":"adetokunboandrew@gmail.com",
+        "birth":"November 21",
+        "matric":"SEN/22/9256"
+    }
+]
